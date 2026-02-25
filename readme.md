@@ -1,4 +1,4 @@
-# 📦 opal.noir — Multi-Project Assets Library
+# 📦 succub.noir — Multi-Project Assets Library
 
 This repository centralizes all 3D assets, models, and configurations used across my various modding projects and personal creations (Arma 3, Minecraft, etc.).
 
@@ -37,7 +37,7 @@ These assets are primarily utilized within the following mod ecosystems:
 
 Assets dedicated to voxel-based environments:
 
-* **eden_** : Used for custom blocks, environment mapping, and world-building projects.
+* **eden_ / irisV_** : Used for custom blocks, environment mapping, and world-building projects.
 
 ---
 
@@ -51,5 +51,5 @@ Assets dedicated to voxel-based environments:
 
 ## 📄 License & Author
 
-Provided by **opal.noir**.  
+Provided by **succub.noir**.  
 Free to use and modify, provided that credit is given to the author.
