@@ -1,4 +1,4 @@
-# 📦 succub.noir — Multi-Project Assets Library
+# 📦 sora.noir — Multi-Project Assets Library
 
 This repository centralizes all 3D assets, models, and configurations used across my various modding projects and personal creations (Arma 3, Minecraft, etc.).
 
@@ -51,5 +51,5 @@ Assets dedicated to voxel-based environments:
 
 ## 📄 License & Author
 
-Provided by **succub.noir**.  
+Provided by **sora.noir**.  
 Free to use and modify, provided that credit is given to the author.
