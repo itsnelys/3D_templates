@@ -51,5 +51,5 @@ Assets dedicated to voxel-based environments:
 
 ## 📄 License & Author
 
-Provided by **sora.noir**.  
+Provided by **soraanoir/sundae https://github.com/soraanoir**.  
 Free to use and modify, provided that credit is given to the author.
